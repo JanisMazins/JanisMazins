@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi I'm Tim_M
 
-<!--
-**JanisMazins/JanisMazins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hobbyist developer mainly working with Unity (C#), currently focusing on Touhou-inspired projects.
 
-Here are some ideas to get you started:
+I also mess with:
+- Java (Fabric / Bukkit)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Unity game development (Touhou-style projects)
+- Minecraft modding (Fabric)
+- Smaller pointless projects (like TI-Uno)
+
+## Currently
+- Working on a bigger indie game called Touhou SSP.
+- Exploring lower-level stuff with C.
+
+## Contact
+- Email: tmerk355@gmail.com
+- Discord: tim_m_
